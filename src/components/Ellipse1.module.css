@@ -1,0 +1,6 @@
+.ellipseDiv {
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 33px;
+  height: 12px;
+}

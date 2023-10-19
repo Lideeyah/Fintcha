@@ -1,0 +1,135 @@
+.chat1Icon,
+.email1Icon,
+.phone1Icon {
+  position: absolute;
+  top: 15px;
+  left: 29px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.email1Icon,
+.phone1Icon {
+  top: 119px;
+  left: 28px;
+  width: 33px;
+  height: 33px;
+}
+.email1Icon {
+  top: 228px;
+  left: 26px;
+  width: 35px;
+  height: 35px;
+}
+.chat1Parent {
+  position: absolute;
+  top: 533px;
+  left: 16px;
+  width: 61px;
+  height: 283px;
+}
+.chat,
+.email,
+.phone {
+  position: absolute;
+  top: 551px;
+  left: 94px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.email,
+.phone {
+  top: 654px;
+}
+.email {
+  top: 766px;
+  left: 96px;
+}
+.haveQuestionsChat {
+  margin: 0;
+}
+.span {
+  color: var(--color-gray-100);
+}
+.haveQuestionsChatContainer,
+.weRespondPromptly {
+  position: absolute;
+  top: 575px;
+  left: 97px;
+}
+.weRespondPromptly {
+  top: 475px;
+  display: inline-block;
+  width: 211px;
+}
+.sendUsAnContainer,
+.toSpeakWithContainer {
+  position: absolute;
+  top: 678px;
+  left: 97px;
+}
+.sendUsAnContainer {
+  top: 790px;
+}
+.menubuttonofthreelines797812Icon {
+  position: absolute;
+  top: 19px;
+  left: 33px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.androidSmall8Child,
+.androidSmall8Inner,
+.androidSmall8Item {
+  position: absolute;
+  top: 627px;
+  left: -0.01px;
+  width: 360px;
+  height: 4px;
+}
+.androidSmall8Inner,
+.androidSmall8Item {
+  top: 633px;
+}
+.androidSmall8Inner {
+  top: 733px;
+}
+.androidSmall8Child1,
+.androidSmall8Child2,
+.c1Icon,
+.lineIcon {
+  position: absolute;
+  top: 738px;
+  left: -0.01px;
+  width: 360px;
+  height: 4px;
+}
+.androidSmall8Child1,
+.androidSmall8Child2,
+.c1Icon {
+  top: 525px;
+}
+.androidSmall8Child2,
+.c1Icon {
+  top: 530px;
+}
+.c1Icon {
+  top: 466px;
+  left: 41px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.androidSmall8 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 879px;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

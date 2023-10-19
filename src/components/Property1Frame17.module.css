@@ -1,0 +1,44 @@
+.customerSer11,
+.fraud1Icon,
+.insight3Icon {
+  position: relative;
+  border-radius: var(--br-mini);
+  width: 310px;
+  height: 325.18px;
+  object-fit: cover;
+}
+.customerSer11,
+.fraud1Icon {
+  width: 300px;
+  height: 315px;
+}
+.fraud1Icon {
+  height: 315.18px;
+}
+.insight3Parent {
+  position: absolute;
+  top: 69px;
+  left: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.gainFinancialInsight {
+  position: absolute;
+  top: 408px;
+  left: calc(50% - 105px);
+}
+.property1frame17 {
+  position: absolute;
+  top: 563px;
+  left: 20px;
+  background-color: var(--color-white);
+  width: 360px;
+  height: 471px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

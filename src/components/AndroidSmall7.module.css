@@ -1,0 +1,73 @@
+.androidSmall7Child,
+.androidSmall7Item {
+  position: absolute;
+  top: 108.54px;
+  left: -2px;
+  width: 171.02px;
+  height: 6.93px;
+}
+.androidSmall7Item {
+  top: 235.54px;
+  width: 171.03px;
+  height: 7.93px;
+}
+.androidSmall7Inner,
+.lineIcon {
+  position: absolute;
+  top: 183.54px;
+  left: -2px;
+  width: 171.02px;
+  height: 6.93px;
+}
+.lineIcon {
+  top: 288px;
+  left: -4px;
+  width: 171.03px;
+  height: 7.93px;
+}
+.androidSmall7Child1 {
+  position: absolute;
+  top: 53.54px;
+  left: -7px;
+  width: 171.02px;
+  height: 6.93px;
+}
+.aboutUs,
+.logOut {
+  position: absolute;
+  top: 199px;
+  left: 18px;
+  font-weight: 500;
+}
+.logOut {
+  top: 251px;
+  cursor: pointer;
+}
+.customer {
+  margin: 0;
+}
+.customerSupport,
+.home {
+  position: absolute;
+  top: 124px;
+  left: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home {
+  top: 75px;
+}
+.androidSmall7 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-200);
+  width: 167px;
+  height: 640px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

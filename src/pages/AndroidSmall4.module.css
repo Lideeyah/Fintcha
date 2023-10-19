@@ -1,0 +1,119 @@
+.androidSmall4Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+  width: 360px;
+  height: 93px;
+}
+.getStarted {
+  position: absolute;
+  top: 53px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+  color: rgba(0, 0, 0, 0.8);
+}
+.welcomeToFintchat {
+  position: absolute;
+  top: 19px;
+  left: calc(50% - 165px);
+  font-size: 25px;
+  font-weight: 500;
+}
+.askQuestions,
+.customerSupport,
+.ethicalFramework,
+.gainInsight {
+  position: absolute;
+  top: 111px;
+  left: 39px;
+  font-weight: 500;
+  display: inline-block;
+  width: 133px;
+}
+.customerSupport,
+.ethicalFramework,
+.gainInsight {
+  top: 237px;
+  left: 40px;
+  width: 111px;
+}
+.customerSupport,
+.ethicalFramework {
+  top: 351px;
+  width: 170px;
+}
+.customerSupport {
+  top: 474px;
+  width: 174px;
+}
+.fintchatProvidesYou {
+  margin: 0;
+}
+.fintchatProvidesYouContainer,
+.fintchatProvidesYouContainer1,
+.weHaveProfessionals,
+.weProvideValuableContainer {
+  position: absolute;
+  top: 139px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 350px;
+  height: 81px;
+}
+.fintchatProvidesYouContainer1,
+.weHaveProfessionals,
+.weProvideValuableContainer {
+  top: 262px;
+  width: 332px;
+  height: 70px;
+}
+.fintchatProvidesYouContainer1,
+.weHaveProfessionals {
+  top: 379px;
+}
+.weHaveProfessionals {
+  top: 500px;
+  left: 20px;
+  width: 317px;
+  height: 105px;
+}
+.frameChild {
+  position: absolute;
+  top: -5px;
+  left: calc(50% - 76px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue-100);
+  border: 5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 152px;
+  height: 54px;
+}
+.continue,
+.rectangleParent {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 42px);
+}
+.rectangleParent {
+  top: 615px;
+  left: calc(50% - 71px);
+  width: 142px;
+  height: 44px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.androidSmall4 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 693px;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

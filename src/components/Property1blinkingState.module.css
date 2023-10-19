@@ -1,0 +1,37 @@
+.emailAddress {
+  top: 0;
+  left: 1.7%;
+  font-weight: 500;
+}
+.div,
+.emailAddress,
+.wrapper {
+  position: absolute;
+}
+.div {
+  top: 5px;
+  left: 13px;
+  font-weight: 500;
+}
+.wrapper {
+  height: 32.99%;
+  width: 100%;
+  top: 32.99%;
+  right: 0;
+  bottom: 34.02%;
+  left: 0;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.property1blinkingState {
+  position: absolute;
+  top: 254px;
+  left: 20px;
+  width: 235px;
+  height: 97px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

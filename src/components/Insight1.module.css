@@ -1,0 +1,10 @@
+.insight1 {
+  position: relative;
+  border-radius: var(--br-mini);
+  width: 100%;
+  height: 357.2px;
+  background-image: url(/public/insight-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

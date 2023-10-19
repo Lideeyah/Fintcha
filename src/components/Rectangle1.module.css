@@ -1,0 +1,5 @@
+.rectangleDiv {
+  background-color: var(--color-gainsboro);
+  width: 5px;
+  height: 20px;
+}

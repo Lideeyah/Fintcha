@@ -1,0 +1,9 @@
+.component5 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1593px;
+  overflow: hidden;
+}

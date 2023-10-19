@@ -1,0 +1,71 @@
+.androidSmall2Child,
+.androidSmall2Item {
+  top: 118px;
+  left: calc(50% - 165px);
+  background-color: var(--color-white);
+  width: 330px;
+  height: 379px;
+}
+.androidSmall2Child {
+  position: absolute;
+  border-radius: var(--br-xl);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.androidSmall2Item {
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
+}
+.androidSmall2Item,
+.frameChild,
+.rectangleWrapper {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.frameChild {
+  top: -1px;
+  left: calc(50% - 63.5px);
+  background-color: var(--color-darkslateblue-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 127px;
+  height: 46px;
+  cursor: pointer;
+}
+.rectangleWrapper {
+  top: 0;
+  left: 0;
+  width: 125px;
+  height: 44px;
+}
+.logIn {
+  position: absolute;
+  top: 10px;
+  left: 34px;
+  font-weight: 600;
+}
+.frameParent {
+  position: absolute;
+  top: 424px;
+  left: calc(50% - 62px);
+  width: 125px;
+  height: 44px;
+}
+.logIn1 {
+  position: absolute;
+  top: 159px;
+  left: calc(50% - 44px);
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.androidSmall2 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
